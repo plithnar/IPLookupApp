@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_151598_iplookup.ipaddressinfo_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>ipaddressinfo_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-01 19:51:40</sys_created_on>
+        <sys_id>60c8567ddb3113003447f34ebf961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_151598_iplookup.ipaddressinfo_user</sys_name>
+        <sys_package display_value="IPlookup" source="x_151598_iplookup">a0745a35db3113003447f34ebf9619ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPlookup">a0745a35db3113003447f34ebf9619ae</sys_scope>
+        <sys_update_name>sys_user_role_60c8567ddb3113003447f34ebf961989</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-01 19:51:40</sys_updated_on>
+    </sys_user_role>
+</record_update>
